@@ -7,7 +7,7 @@ I set the goal to learn one sentence of romanian per day.
 | Thanks a lot       | Multumesc mult                 |
 | I want to watch a movie with you                   |    Vreau sa privesc un film cu tine             |
 | I'm from france                 |    Sunt din Franta             |
-|                    |                 |
+| How are you                |   Ce mai faci              |
 |                    |                 |
 |                    |                 |
 |                    |                 |

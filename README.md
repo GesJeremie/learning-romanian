@@ -9,7 +9,7 @@ I set the goal to learn one sentence of romanian per day.
 | I'm from france                 |    Sunt din Franta             |
 | How are you                |   Ce mai faci              |
 | I want to sleep                  |  Vreau sa dorm             |
-|                    |                 |
+| I want a hug                   |   Vreau o imbratisare              |
 |                    |                 |
 |                    |                 |
 |                    |                 |

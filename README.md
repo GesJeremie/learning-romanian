@@ -10,7 +10,7 @@ I set the goal to learn one sentence of romanian per day.
 | How are you                |   Ce mai faci              |
 | I want to sleep                  |  Vreau sa dorm             |
 | I want a hug                   |   Vreau o imbratisare              |
-|                    |                 |
+| Have fun tonight                |   Distractie placute deseara!              |
 |                    |                 |
 |                    |                 |
 |                    |                 |

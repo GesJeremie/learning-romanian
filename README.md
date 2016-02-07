@@ -11,7 +11,7 @@ I set the goal to learn one sentence of romanian per day.
 | I want to sleep                  |  Vreau sa dorm             |
 | I want a hug                   |   Vreau o imbratisare              |
 | Have fun tonight                |   Distractie placute deseara!              |
-|                    |                 |
+| I don't speak romanian                  | Eu nu vorbesc romana              |
 |                    |                 |
 |                    |                 |
 |                    |                 |

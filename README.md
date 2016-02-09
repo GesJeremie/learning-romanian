@@ -13,7 +13,7 @@ I set the goal to learn one sentence of romanian per day.
 | Have fun tonight                |   Distractie placute deseara!              |
 | I don't speak romanian                  | Eu nu vorbesc romana              |
 | Let's take a shower together |          Hai sa facem dus impreuna
-|                    |                 |
+| Hi, a beer please !                   | Buna, o bere va rog !                |
 |                    |                 |
 |                    |                 |
 |                    |                 |

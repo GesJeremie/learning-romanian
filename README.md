@@ -15,5 +15,18 @@ I set the goal to learn one sentence of romanian per day.
 | Let's take a shower together |          Hai sa facem dus impreuna
 | Hi, a beer please !                   | Buna, o bere va rog !                |
 | Hi, I am Jeremie, nice to meet you!                   |  Buna, sunt Jeremie, bucuros de cunostinta!               |
+| Where do you come from ?                 | De unde esti                |
+| How long you’ve been here                  | De cand esti aici                |
+| My girlfriend is moldavian                  | Prietena mea este din Moldova                |
+| I never went to romania                   | Eu niciodata nu am fost in romania                |
+|                    |                 |
+|                    |                 |
+|                    |                 |
+|                    |                 |
+|                    |                 |
+|                    |                 |
+|                    |                 |
+|                    |                 |
+|                    |                 |
 |                    |                 |
 |                    |                 |

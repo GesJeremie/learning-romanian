@@ -19,7 +19,7 @@ I set the goal to learn one sentence of romanian per day.
 | How long you’ve been here                  | De cand esti aici                |
 | My girlfriend is moldavian                  | Prietena mea este din Moldova                |
 | I never went to romania                   | Eu niciodata nu am fost in romania                |
-|                    |                 |
+| I want to fuck in the ass                   | Vreau sa te fut in cur                |
 |                    |                 |
 |                    |                 |
 |                    |                 |

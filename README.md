@@ -22,7 +22,7 @@ I set the goal to learn one sentence of romanian per day.
 | I want to fuck in the ass                   | Vreau sa te fut in cur                |
 | I love you                  |  Te iubesc               |
 | It's funny                   | E amuzant                |
-|                    |                 |
+| Where are the girls tonight ?                | Unde sunt fetele in seara asta ?              |
 |                    |                 |
 |                    |                 |
 |                    |                 |

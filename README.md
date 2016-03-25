@@ -21,7 +21,7 @@ I set the goal to learn one sentence of romanian per day.
 | I never went to romania                   | Eu niciodata nu am fost in romania                |
 | I want to fuck in the ass                   | Vreau sa te fut in cur                |
 | I love you                  |  Te iubesc               |
-|                    |                 |
+| It's funny                   | E amuzant                |
 |                    |                 |
 |                    |                 |
 |                    |                 |

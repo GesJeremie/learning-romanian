@@ -1,10 +1,11 @@
-> :skull: This project has been archived. 
+> :skull: This project has been archived. At least you have some sentences for your next trip to romania ...
 
 # Learning Romanian
 
+## Basics 
+
 | English            | Romanian        |
 |--------------------|-----------------|
-| I want to fuck you | Vreau sa te fut |
 | Thanks a lot       | Multumesc mult                 |
 | I want to watch a movie with you                   |    Vreau sa privesc un film cu tine             |
 | I'm from france                 |    Sunt din Franta             |
@@ -20,7 +21,14 @@
 | How long you’ve been here                  | De cand esti aici                |
 | My girlfriend is moldavian                  | Prietena mea este din Moldova                |
 | I never went to romania                   | Eu niciodata nu am fost in romania                |
-| I want to fuck you in the ass                   | Vreau sa te fut in cur                |
 | I love you                  |  Te iubesc               |
 | It's funny                   | E amuzant                |
 | Where are the girls tonight ?                | Unde sunt fetele in seara asta ?              |
+
+
+## How to be a dick 101
+
+| English            | Romanian        |
+|--------------------|-----------------|
+| I want to fuck you | Vreau sa te fut |
+| I want to fuck you in the ass                   | Vreau sa te fut in cur                |
